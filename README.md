@@ -1,5 +1,5 @@
 Hello, my name is ITTYAMU.
-I am a beginner and am currently studying languages such as Python.
+I am a beginner and am currently studying languages such as Python,JavaScript.
 My code is messy but I would like to improve it.
 
 <!---
